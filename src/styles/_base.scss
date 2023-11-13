@@ -1,0 +1,46 @@
+@use 'global';
+@import 'normalize.css';
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: global.$mainFont;
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.6rem;
+  height: 100dvh;
+  background: global.$background no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+button {
+  width: 100%;
+
+  padding: 0;
+
+  border: 0;
+
+  background: none;
+  // outline-color: global.$secondaryPurple;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+
+  li {
+    list-style-type: none;
+  }
+}
