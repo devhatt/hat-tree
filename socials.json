@@ -1,0 +1,48 @@
+{
+  "orgName": "DevHat",
+  "description": "404 bio not found",
+  "links": [
+    {
+      "id": "1",
+      "label": "Twitter/X",
+      "url": "https://twitter.com/DevHatt",
+      "iconName": "twitter-logo",
+      "affiliateLink": false
+    },
+    {
+      "id": "2",
+      "label": "Github",
+      "url": "https://github.com/hatcoders",
+      "iconName": "github-logo",
+      "affiliateLink": false
+    },
+    {
+      "id": "3",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/dev-hat/",
+      "iconName": "linkedin-logo",
+      "affiliateLink": false
+    },
+    {
+      "id": "4",
+      "label": "Dev.To",
+      "url": "https://dev.to/devhat",
+      "iconName": "dev-to-logo",
+      "affiliateLink": false
+    },
+    {
+      "id": "5",
+      "label": "YouTube",
+      "url": "https://dev.to/devhat",
+      "iconName": "youtube-logo",
+      "affiliateLink": false
+    },
+    {
+      "id": "6",
+      "label": "",
+      "url": "",
+      "iconName": "",
+      "affiliateLink": false
+    }
+  ]
+}
